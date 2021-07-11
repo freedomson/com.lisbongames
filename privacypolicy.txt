@@ -30,6 +30,7 @@ Information Collection and Use
 
 We collect several different types of information for various purposes to provide and improve our Service to you.
 Types of Data Collected
+
 Personal Data
 	The app saves your personal data on your friends device* 
 Location Data
