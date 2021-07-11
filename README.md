@@ -8,7 +8,7 @@ lisbongames - game of life
 Lisbongames stores app data in each user client app internal storage. \
 This data on other devices, relating to past events, we cannot remove ourselfs. \
 We try remove it remotely but we can't assure data will be deleted. \
-For example you could delete a story and it will be present on other device's until the user's delete from app storage. \
+For example you could delete a story and it will be present on other device's until the user's delete from app storage.
 
 ### CLOUD MESSAGE RETENTION
 To send messages lisbongames uses FCM messages. \
