@@ -1,5 +1,5 @@
-*com.lisbongames*
-__lisbongames the game of life__
+__com.lisbongames__
+*lisbongames the game of life*
 
-### :duck: [Please visit us](http://lisbongames.com) 
+### :duck: [Visit](http://lisbongames.com) 
 ### ::link: [Download](https://play.google.com/store/apps/details?id=com.lisbongames) 
