@@ -1,6 +1,5 @@
 # com.lisbongames
-## Please visit us at http://lisbongames.com :duck:
+## Please visit us :duck: http://lisbongames.com
 lisbongames - game of life
 
-Download app at:
-# https://play.google.com/store/apps/details?id=com.lisbongames
+## Download app ::link: https://play.google.com/store/apps/details?id=com.lisbongames
