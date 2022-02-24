@@ -32,7 +32,7 @@ We collect several different types of information for various purposes to provid
 Types of Data Collected
 
 Personal Data
-	The app saves your personal data on your friends device* 
+	The app saves your personal data on your friends device* and Firestore and Firestore Cloud Messages
 Location Data
 	The app shares between friends your current location while stories are active during the time settings provided by the user.
 Social Login (Facebook; Google)
@@ -135,5 +135,6 @@ If you have any questions about this Privacy Policy, please contact us:
     By email: admin@lisbongames.com
 
 !!! IMPORTANT !!!
-By using this app you accept to send your in app personal data via Firebase Cloud Messaging Service*.
+By using this app you accept to send all your in app personal data via Firebase Cloud Messaging Service* and *Firestore Database*
+
 For more information please raise an issue: https://github.com/freedomson/com.lisbongames/issues/new
